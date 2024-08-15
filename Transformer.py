@@ -58,6 +58,7 @@ class LayerNormalization(nn.Module):
         return self.alpha * (x - mean) / (std + self.ops) + self.bias
     
 
+#4. Feet Foward Block layer
 class FeetFowardBlock(nn.Module):
 
     def __init__(self, d_model: int, d_ff: int, dropout: float) -> None:
@@ -71,6 +72,7 @@ class FeetFowardBlock(nn.Module):
         return self.linear_2(self.dropout(torch.relu(self.Linear_1(x))))
 
 
+# 5. Multi-Header Attention Block layer
 class MultiHeadAttentionBlock(nn.Module):
 
     def __init__(self, d_model:int, h:int, dropout:float) -> None:
@@ -119,6 +121,7 @@ class MultiHeadAttentionBlock(nn.Module):
         return self.w_o(x)
     
 
+# 6. Residual Connector
 class ResidualConnection(nn.Module):
 
     def __init__(self, dropout: float) -> None:
