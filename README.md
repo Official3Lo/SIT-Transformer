@@ -13,7 +13,7 @@ This project implements a custom Transformer model tailored for text summarizati
 - Jupyter notebooks for experimentation
 
 ## Installation
-git clone https://github.com/your-username/Custom-Transformer-NLP.git cd Custom-Transformer-NLP pip install -r requirements.txt
+git clone https://github.com/official3Lo/Custom-Transformer-NLP.git cd Custom-Transformer-NLP pip install -r requirements.txt
 
 Shell:
 python src/train.py --config config/config.yaml
