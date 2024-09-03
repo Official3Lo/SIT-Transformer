@@ -12,6 +12,15 @@ This project implements a custom Transformer model tailored for text summarizati
 - Training and evaluation scripts
 - Jupyter notebooks for experimentation
 
+## Demo
+![Project Demo](path/to/screenshot.png) <!-- Add a relevant screenshot or GIF -->
+
+### Prerequisites
+- Python 3.8+
+- PyTorch
+- HuggingFace libraries
+- [Other dependencies, e.g., CUDA for GPU support]
+
 ## Installation
 git clone https://github.com/official3Lo/Custom-Transformer-NLP.git cd Custom-Transformer-NLP pip install -r requirements.txt
 
