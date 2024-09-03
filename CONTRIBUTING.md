@@ -1,6 +1,6 @@
 # Contributing to Custom Transformer NLP
 
-We welcome contributions from the community! To ensure a smooth process, please follow these guidelines:
+I welcome contributions from the community! To ensure a smooth process, please follow these guidelines:
 
 ## How to Contribute
 
