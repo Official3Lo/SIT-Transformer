@@ -4,7 +4,7 @@ A Tranformer model architecture coded from scratch using PyTorch following Umar 
 ![Alt Text](https://github.com/Official3Lo/SIT-Transformer/blob/main/zTransformer.PNG)
 
 ## Overview
-This project implements a custom Transformer model tailored for text summarization. It leverages advanced NLP techniques to generate concise summaries of long documents.
+This project implements a custom Transformer model...
 
 ## Features
 - Custom-built Transformer architecture
