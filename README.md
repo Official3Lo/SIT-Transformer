@@ -21,17 +21,6 @@ This project implements a custom Transformer model...
 - HuggingFace libraries
 - [Other dependencies, e.g., CUDA for GPU support]
 
-## Installation
-git clone https://github.com/official3Lo/Custom-Transformer-NLP.git cd Custom-Transformer-NLP pip install -r requirements.txt
-
-Shell:
-python src/train.py --config config/config.yaml
-
-## Project Structure
-- `src/`: Source code for the Transformer model.
-- `data/`: Dataset and data processing scripts.
-- `notebooks/`: Jupyter notebooks for experiments.
-- `tests/`: Unit tests.
 
 ## License
 This project is licensed under the MIT License.
