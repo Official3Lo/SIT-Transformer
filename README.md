@@ -1,10 +1,9 @@
 # Sit's Amazing & Simple Yet Complex Transformer
-A Tranformer model architecture coded from scratch using PyTorch following Umar Jamil's tutorial.
 
 ![Alt Text](https://github.com/Official3Lo/SIT-Transformer/blob/main/Transformer_Model.PNG)
 
 ## Overview
-This project implements a custom Transformer model...
+A Tranformer model architecture coded from scratch using PyTorch following Umar Jamil's tutorial....
 
 
 ## Features
