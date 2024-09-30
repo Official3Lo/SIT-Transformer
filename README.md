@@ -6,14 +6,13 @@ A Tranformer model architecture coded from scratch using PyTorch following Umar 
 ## Overview
 This project implements a custom Transformer model...
 
+
 ## Features
 - Custom-built Transformer architecture
 - Data preprocessing pipeline
 - Training and evaluation scripts
 - Jupyter notebooks for experimentation
 
-## Demo
-![Project Demo](path/to/screenshot.png) <!-- Add a relevant screenshot or GIF -->
 
 ### Prerequisites
 - Python 3.8+
