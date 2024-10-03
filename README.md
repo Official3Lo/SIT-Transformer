@@ -3,7 +3,7 @@
 ![Alt Text](https://github.com/Official3Lo/SIT-Transformer/blob/main/Transformer_Model.PNG)
 
 ## Overview
-A Tranformer model architecture coded from scratch using PyTorch following Umar Jamil's tutorial....
+A Tranformer model architecture coded from scratch using PyTorch following Umar Jamil's tutorial.
 
 
 ## Features
