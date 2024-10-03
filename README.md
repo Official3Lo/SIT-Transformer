@@ -16,6 +16,7 @@ A Tranformer model architecture coded from scratch using PyTorch following Umar 
 ### Prerequisites
 - Python 3.8+
 - PyTorch
+- Tensorflow
 - HuggingFace libraries
 - [Other dependencies, e.g., CUDA for GPU support]
 
